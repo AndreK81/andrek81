@@ -1,5 +1,5 @@
 ### Hallo 👋
 
-Das ist mein privates Github-Konto. Aktuell bin ich Dozent beim [Digital Career Institute](https://digitalcareerinstitute.org)
+Das ist mein privates Github-Konto. 
 
-Wenn du ein Schülery von mir bist, der/die/das mich über den Namen gesucht hat, schau bitte auf das Konto [andredci](https://github.com/andredci).
+Ich bin kein Dozent beim [Digital Career Institute](https://digitalcareerinstitute.org) mehr, falls du ein Schülery von mir warst, der/die/das mich über Namen gesucht hat, schau bitte auf das Konto [andredci](https://github.com/andredci).
